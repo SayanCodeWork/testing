@@ -1,0 +1,11 @@
+SaleID,Date,CustomerName,Region,Product,Quantity,UnitPrice,TotalAmount
+1001,2025-05-01,Alice Smith,North,Laptop,2,750,1500
+1002,2025-05-01,Bob Jones,South,Mouse,5,20,100
+1003,2025-05-02,Cathy White,East,Keyboard,3,45,135
+1004,2025-05-02,Dan Green,West,Monitor,1,200,200
+1005,2025-05-03,Emily Brown,North,Printer,1,120,120
+1006,2025-05-03,Frank Black,South,Laptop,1,750,750
+1007,2025-05-04,Grace King,East,Mouse,10,20,200
+1008,2025-05-04,Henry Adams,West,Webcam,2,60,120
+1009,2025-05-05,Irene Newton,North,Laptop,1,750,750
+1010,2025-05-05,Jack Thomas,South,Monitor,2,200,400
